@@ -12,9 +12,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.UUID;
 
-/**
- * Created by tamila on 9/14/16.
- */
 public class CreateTaskServlet extends HttpServlet {
 
     public static final String TODO_LIST = "todoList";
